@@ -1,4 +1,4 @@
-# Case Log Tool v6
+# Cyber Lab Case Tracker
 
 I built this as a personal want.  I had been keeping a log of activity of my lab on a spreadsheet, which worked great, and I had pretty graphs with it, but it had gotten to the point I was having to do more
 scrolling to get to the next new entry slot than actually typing in my tracked data.  So I came up with this application that has a new entry screen right up front and still able to see all the data, generate graphs,
